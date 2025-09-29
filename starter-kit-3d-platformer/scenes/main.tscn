@@ -222,22 +222,22 @@ transform = Transform3D(1.56209, -1.37982, 1.71508, 1.97375, 1.80907, -0.342241,
 transform = Transform3D(1.56209, -1.37982, 1.71508, 1.97375, 1.80907, -0.342241, -0.974547, 1.4522, 2.05595, -14.152035, 2.0381904, 10.065234)
 
 [node name="platform-falling5" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.9996405, 6.847972, 3.0558956)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.9996405, 5.950008, 3.0558956)
 
 [node name="platform-falling6" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.350025, 6.4401207, 7.2704544)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.350025, 6.4401207, 7.5769873)
 
 [node name="platform-falling8" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.300918, 6.505297, 12.04128)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.300918, 6.505297, 12.2020855)
 
 [node name="platform-falling9" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.2798996, 6.585542, 9.983089)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.2798996, 7.2362437, 9.816464)
 
 [node name="platform-falling7" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.329006, 6.5203657, 5.212264)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.329006, 6.8057055, 5.212264)
 
 [node name="platform-falling4" parent="World" instance=ExtResource("9_2fnpo")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.9786215, 6.928217, 0.9977056)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.9786215, 6.928217, 0.8880925)
 
 [node name="brick" parent="World" instance=ExtResource("12_jkv2x")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.119135, 1.9857206, -0.08861771)
